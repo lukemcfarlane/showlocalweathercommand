@@ -1,0 +1,5 @@
+[{
+
+	"caption": "Show local weather",
+	"command": "show_local_weather"
+}]
