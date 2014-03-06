@@ -3,6 +3,12 @@ Get Weather Command
 A Sublime Text 3 plugin.
 -------------------------
 
+Example keyboard shortcut:
+
+	{
+		"keys": ["ctrl+w"],
+		"command": "show_local_weather"
+	}
 
 
 Installation
